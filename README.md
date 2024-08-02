@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a web developper. I am graduated from BYUI in Applied Technology. 
+I ma Zarry Die, I am a web developper. I am graduated from BYUI in Applied Technology. 
 - 🌱 I’m currently completing a MERN boot camp at Triple Ten.
 - I sturdied Finance long time ago and wanted to refresh my knowledge by taking these classes: Financial Market and Introduction to Trading, Machine Learning & GCP.
 - I am very intersed in software developement and want to help solving health issue regarding obesity.
